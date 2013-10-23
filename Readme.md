@@ -11,7 +11,7 @@
 
 ## API
 
-### #protocol();
+### #protocol()
 
   Returns the current protocol that the document is using
 
@@ -19,7 +19,7 @@
   protocol(); // 'http:'
   ```
 
-### #protocol(protocol);
+### #protocol(protocol)
 
   When supplied with an argument, sets a custom protocol for the document.
 
@@ -28,7 +28,7 @@
   protocol(); // 'chrome-extension:'
   ```
 
-### #http();
+### #http()
 
   Sets the protocol to be `http`
 
