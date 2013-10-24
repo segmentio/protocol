@@ -1,12 +1,5 @@
 
 /**
- * Required modules
- */
-
-var indexOf = require('indexof');
-
-
-/**
  * Convenience alias
  */
 
