@@ -4,9 +4,7 @@
   "description": "Testing component used to fake different protocols from the browser",
   "version": "0.0.1",
   "keywords": [],
-  "dependencies": {
-    "component/indexof": "0.0.1"
-  },
+  "dependencies": {},
   "development": {
     "component/assert": "*"
   },
